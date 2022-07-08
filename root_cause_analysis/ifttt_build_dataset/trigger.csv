@@ -1,0 +1,308 @@
+trigger_id,trigger_content
+0,tap an app icon
+1,light turned on
+2,light turned off
+3,coffee machine turned on
+4,tweet is posted
+5,any new public photo tagged
+6,heater turned on
+7,lock locked
+8,secure barrier closed
+9,power switch turned on
+10,lock unlocked
+11,secure barrier opened
+12,monitor your motion sensor data
+13,new water history
+14,new record in a table
+15,air conditioning fan speed change
+16,air conditioning mode change
+17,air conditioning power off
+18,air conditioning power on
+19,security system alarmed
+20,bluetooth disconnected
+21,bluetooth connected
+22,disconnect from any wifi network
+23,connect to any wifi network
+24,sent a message to phone number
+25,data synchronization is on
+26,new project created
+27,new task in project
+28,location updated
+29,data point written
+30,call state changed
+31,device state changed
+32,tv channel changed
+33,wifi state changed
+34,thermostat turned on
+35,set temperature change
+36,data point added
+37,new public short url
+38,any new post blogger
+39,new status item buffer
+40,new photo item buffer
+41,blockchain global mode change
+42,sms received
+43,concierge activation
+44,concierge desactivation
+45,shutter turned on
+46,camera turned on
+47,camera turned off
+48,door locked
+49,new favorite album
+50,new favorite artist
+51,new favorite radio
+52,new favorite track
+53,new playlist track
+54,new bookmark
+55,bookmark deleted
+56,new file in folder
+57,text file deleted
+58,plug turned on
+59,plugs turned off
+60,plugs open
+61,plugs close
+62,switch turned on 
+63,switches turned off
+64,switches open
+65,switches close
+66,new link from you
+67,new photo from you
+68,new status message by you
+69,new link from page
+70,new photo from page
+71,new hashtag message by page
+72,new entry in  article
+73,new subscription
+74,new entry marked save
+75,new entry with tag
+76,new weight logged
+77,any new public photo
+78,new reminder
+79,shortcut run
+80,fan speed switched
+81,door closes
+82,door opens
+83,exhaust fan off
+84,water heater user mode hybrid
+85,water heater user mode vacation
+86,air conditioner mode selected cool
+87,zone heated
+88,smart home app scenario launched
+89,any new issue in github
+90,new sent email
+91,new email with attachment
+92,new event google calendar
+93,new document
+94,new row in spreadsheet
+95,cell updated in spreadsheet
+96,lighting off
+97,lighting on
+98,device installed
+99,device toggled
+100,smart control activated
+101,volume below
+102,cleaning robot started
+103,coffee maker power off
+104,coffee maker power on
+105,dishwasher power off
+106,dishwasher power on
+107,hood power off
+108,hood power on
+109,oven started
+110,oven off
+111,oven on
+112,arm the garage door control system
+113,arm stay the garage door control system
+114,disarm the garage door control system
+115,garage opened
+116,armed indoor outdoor security system
+117,disarmed indoor outdoor security system
+118,flow action is triggered
+119,trigger closed
+120,trigger mode
+121,trigger off
+122,trigger on
+123,trigger open
+124,light changed accelation
+125,light changed brightness
+126,light changed colour
+127,light changed effect
+128,air conditioning mode
+129,air conditioning fan speed
+130,air conditioning zone climate
+131,air conditioning save off
+132,air conditioning save on
+133,air conditioning is turned off
+134,air conditioning is turned on
+135,water controller schedule activated
+136,water controller run time adjusted
+137,water controller schedule deactivated
+138,water controller station manual run
+139,water controller program running
+140,water controller system test
+141,water controller is turned off
+142,water controller is turned on
+143,new saved web page
+144,new subscription
+145,new link saved
+146,received message
+147,light on
+148,lock key
+149,mode change
+150,unlock key
+151,new calendar event
+152,new photo in album
+153,new reminder added
+154,Sensor Trigger  Smart Switch Turned On
+155,System Mode Is Changed
+156,camera alert
+157,log new meal
+158,log new mood
+159,shopping list changed
+160,photo uploaded
+161,timer start
+162,connected specific bluetooth
+163,arm state change
+164,garage door closed
+165,give lock command
+166,Diffuser Power Switch
+167,Light Light Switch
+168,Outlet Power Switch
+169,smart lock locked
+170,smart lock unlocked
+171,device armed
+172,device disarmed
+173,residence state
+174,new subscriber
+175,image triggers private
+176,image triggers flower
+177,image triggers human action
+178,image triggers indoor environment
+179,image triggers jewelry
+180,image triggers kitchen utensil
+181,image triggers sunglasses
+182,text triggers private
+183,app event
+184,scene triggered
+185,task created in project
+186,new memo message
+187,incoming chat message
+188,incoming sms message
+189,switch status
+190,Push button pushed
+191,Push button released
+192,Push button push released
+193,get system mode winter
+194,area state
+195,lock state
+196,program state
+197,variable current value
+198,box started
+199,box stopped
+200,favorite
+201,activity executed
+202,scene executed
+203,room off
+204,room on
+205,security disabled
+206,security partial
+207,security total
+208,on home mode changed
+209,get set point manual
+210,new saved story
+211,new shared story
+212,nexia automation
+213,door opened
+214,door close
+215,front door open
+216,scene changed
+217,someone locks the door
+218,new contact
+219,new email
+220,listen for hotwords
+221,leave ifttt a voicemail
+222,new bookmark
+223,a new pin on your board
+224,new item added pocket
+225,storyline executed
+226,new note
+227,new numerical
+228,transfer finished
+229,save toward goal
+230,new file in your folder
+231,watering time starts
+232,program has started
+233,zone has started
+234,program has stopped
+235,series created
+236,focus time end
+237,focus time start
+238,alert triggered
+239,air conditioner power off
+240,air conditioner power on
+241,air purifier power off
+242,air purifier power on
+243,robot cleaner cleaning
+244,robot cleaner homing
+245,room air conditioner power off
+246,room air conditioner power on
+247,washer pause
+248,washer finish
+249,washer run
+250,mode armed
+251,cloud driver new file
+252,get message
+253,smart lock closed
+254,smart lock opened
+255,any new file
+256,user weibos
+257,watering stopped
+258,two way switch off
+259,two way garage door open
+260,smanos arm away
+261,smanos arm stay
+262,smanos disarm
+263,appliance turns off
+264,appliance turns on
+265,kettle boiled
+266,coffee brewed
+267,scene activated
+268,locked smartthings
+269,switched off smart things  
+270,switched on smart things
+271,unlocked smart things
+272,send sms a text
+273,send sms a picture
+274,heating mode
+275,any new public track
+276,changed home away
+277,new track added to playlist
+278,new saved track
+279,turn on an alarm
+280,on photo upload
+281,flow ran
+282,open garage door trigger
+283,new photo by you
+284,a device switched off
+285,a device switched on
+286,start a new timer
+287,start new timer for a specific customer
+288,stop timer without a customer
+289,stop timer with specific customer
+290,new task created
+291,task added
+292,card added to board
+293,new audio post
+294,new any post
+295,new photo post
+296,new quote post
+297,new text post
+298,new video post
+299,voice operated computer
+300,thermostat get exit system mode winter
+301,new photo in folder
+302,device State
+303,dimmer off
+304,dimmer on
+305,humidifier off
+306,switch on
